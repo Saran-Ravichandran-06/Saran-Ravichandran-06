@@ -4,7 +4,7 @@
 <h3 align="center">AI & Data Science Student | Full-Stack Developer | AI Builder</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0dG9ndWo3ZmV5YjYzNDJqMmkwajR3a2NjM3A1eHNwZHp1czR6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" width="450"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0dG9ndWo3ZmV5YjYzNDJqMmkwajR3a2NjM3A1eHNwZHp1czR6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0dG9ndWo3ZmV5YjYzNDJqMmkwajR3a2NjM3A1eHNwZHp1czR6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KpACNEh8jXK2Q/giphy.gif)" width="450"/>
 </p>
 
 ---
@@ -15,25 +15,18 @@
 - 🤖 Passionate about AI Agents, LLM Apps & Automation  
 - 💻 Full-Stack Developer (Web + AI Integration)  
 - 🚀 Building real-world AI products  
-- 📚 Currently learning: Advanced AI Systems & Scalable Backends  
-- ⚡ Fun fact: I turn coffee into code ☕  
+- 📚 Currently learning: Advanced AI Systems & Scalable Backends    
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/saran-ravichandran-8863b6299" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:saranakshaya359@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://portfolio-link.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 </p>
 
@@ -43,7 +36,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
 </p>
 
 ### 🌐 Frontend
@@ -68,7 +61,7 @@
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
@@ -85,11 +78,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saran-Ravichandran-06&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saran-Ravichandran-06&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -97,7 +90,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Saran-Ravichandran-06&theme=tokyonight" />
 </p>
 
 ---
@@ -105,7 +98,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saran-Ravichandran-06&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
@@ -113,7 +106,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saran-Ravichandran-06&theme=tokyo-night" />
 </p>
 
 ---
@@ -127,7 +120,7 @@
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Saran-Ravichandran-06&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
