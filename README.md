@@ -4,7 +4,7 @@
 <h3 align="center">AI & Data Science Student | Full-Stack Developer | AI Builder</h3>
 
 <p align="center">
-  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0dG9ndWo3ZmV5YjYzNDJqMmkwajR3a2NjM3A1eHNwZHp1czR6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif)", width="450"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0dG9ndWo3ZmV5YjYzNDJqMmkwajR3a2NjM3A1eHNwZHp1czR6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif", width="450"/>
 </p>
 
 ---
@@ -34,35 +34,49 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
-</p>
+<table>
+  <tr>
+    <td><b>🌐 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+    </td>
+  </tr>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
+    </td>
+  </tr>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
-</p>
+  <tr>
+    <td><b>👨‍💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+    </td>
+  </tr>
 
-### 🤖 AI / Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+  <tr>
+    <td><b>🤖 AI / Data Science</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+    </td>
+  </tr>
 
-### 🛢️ Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws" />
-</p>
+  <tr>
+    <td><b>🛢️ Database & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws" />
+    </td>
+  </tr>
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</p>
+  <tr>
+    <td><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
