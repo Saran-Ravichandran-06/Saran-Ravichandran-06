@@ -4,7 +4,7 @@
 <h3 align="center">AI & Data Science Student | Full-Stack Developer | AI Builder</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0dG9ndWo3ZmV5YjYzNDJqMmkwajR3a2NjM3A1eHNwZHp1czR6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" width="450"/>
+  <img src="https://giphy.com/gifs/5Zesu5VPNGJlm" width="450"/>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/saran-ravichandran-8863b6299" target="_blank">
+  <a href="https://www.linkedin.com/in/saran-ravichandran-8863b6299/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:saranakshaya359@gmail.com">
