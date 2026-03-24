@@ -4,7 +4,7 @@
 <h3 align="center">AI & Data Science Student | Full-Stack Developer | AI Builder</h3>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/5Zesu5VPNGJlm" width="450"/>
+  <img src="https://tenor.com/en-IN/view/monkey-laptop-not-working-upset-frustrated-gif-17858114" width="450"/>
 </p>
 
 ---
