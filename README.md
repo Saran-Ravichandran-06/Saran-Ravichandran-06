@@ -52,14 +52,14 @@
   <tr>
     <td><b>👨‍💻 Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+      <img src="https://skillicons.dev/icons?i=python,java,php,js,ts" />
     </td>
   </tr>
 
   <tr>
     <td><b>🤖 AI / Data Science</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
     </td>
   </tr>
 
