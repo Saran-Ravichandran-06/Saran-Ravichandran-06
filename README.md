@@ -66,14 +66,14 @@
   <tr>
     <td><b>🛢️ Database & Cloud</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws" />
     </td>
   </tr>
 
   <tr>
     <td><b>🧰 Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     </td>
   </tr>
 </table>
