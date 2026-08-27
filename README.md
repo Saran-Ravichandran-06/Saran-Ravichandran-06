@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech AI & Data Science Student  
-- 🤖 Passionate about AI Agents, LLM Apps & Automation  
+- 🤖 Passionate about AI Agents, LLMs, Apps & Automation  
 - 💻 Full-Stack Developer (Web + AI Integration)  
 - 🚀 Building real-world AI products  
 - 📚 Currently learning: Advanced AI Systems & Scalable Backends    
