@@ -1,7 +1,7 @@
 <!-- ====== HEADER / HERO ====== -->
 
 <h1 align="center">Hi 👋, I'm Saran</h1>
-<h3 align="center">AI & Data Science Student | Full-Stack Developer | AI Builder</h3>
+<h3 align="center">AI & DS Student | Full-Stack Developer | AI Builder</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm11cnVpa3pyNmpoa3hhYXdhaG12Nmx1ajNoOGFhbWVyNDN2MnJiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" width="450" alt="coding gif"/>
