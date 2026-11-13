@@ -3,7 +3,7 @@
 <h1 align="center">Bye, I'm Saran Ravichandran</h1>
 <h3 align="center">AI-DS Student | AI Developer Intern</h3>
 
-
+<p style="margin-bottom:20px"></p>
 
 ## 🧠 About Me
 
