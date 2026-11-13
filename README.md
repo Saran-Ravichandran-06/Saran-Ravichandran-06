@@ -1,19 +1,20 @@
 <!-- ====== HEADER / HERO ====== -->
 
-<h1 align="center">Bye, I'm Saran Ravichandran</h1>
-<h3 align="center">AI & DS Student | Intern | AI Developer</h3>
+<h1 align="center">Bye 🙋🏻‍♂️, I'm Saran Ravichandran</h1>
+<h3 align="center">AI-DS Student | AI Developer Intern</h3>
 
----
+
 
 ## 🧠 About Me
 
 - 🎓 B.Tech AI & Data Science Student  
+- 💻 AI Developer Intern
 - 🤖 Passionate about AI Agents, LLMs, Apps & Automation  
 - 💻 Full-Stack Developer (Web + AI Integration)  
 - 🚀 Building real-world AI products  
 - 📚 Currently learning: Advanced AI Systems & Scalable Backends    
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -26,7 +27,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +75,7 @@
   </tr>
 </table>
 
----
+
 
 ## 🚀 What I'm Currently Working On
 
@@ -83,7 +84,7 @@
 - 🌐 Full-Stack AI Products  
 - 📊 Data-Driven Systems  
 
----
+
 
 ## 👀 Visitor Count
 
@@ -91,8 +92,8 @@
   <img src="https://komarev.com/ghpvc/?username=Saran-Ravichandran-06&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
+
 
 <p align="center">
-  ⭐️ From <b>Saran</b>
+  💋 From <b>Saran</b>
 </p>
