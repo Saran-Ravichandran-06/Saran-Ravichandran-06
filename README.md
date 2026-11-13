@@ -1,7 +1,7 @@
 <!-- ====== HEADER / HERO ====== -->
 
 <h1 align="center">Bye, I'm Saran Ravichandran</h1>
-<h3 align="center">AI & DS Student | Full-Stack Developer | AI Builder</h3>
+<h3 align="center">AI & DS Student | Intern | AI Developer</h3>
 
 ---
 
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/saran-ravichandran-8863b6299/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:saranakshaya359@gmail.com">
+  <a href="mailto:saran.05012006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
